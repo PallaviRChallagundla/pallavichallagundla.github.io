@@ -222,4 +222,21 @@ section {
         flex-direction: column;
         text-align: center;
     }
+
+.hero-content p {
+    margin-top: 15px;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.hero-links {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.hero-links a {
+    margin-right: 10px;
 }
